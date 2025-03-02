@@ -17,20 +17,18 @@ Material UI – Theming & Styling
 
 🚀 Getting Started
 Clone the repository:
-sh
-Copy
-Edit
+-
+-
+-
 git clone https://github.com/your-repo/invoice-page.git
 cd invoice-page
 Install dependencies:
-sh
-Copy
-Edit
+
 flutter pub get
 Run the app:
-sh
-Copy
-Edit
+-
+-
+-
 flutter run
 📌 Contributing
 ![invoice 1](https://github.com/user-attachments/assets/64fdcbf2-8b08-452a-87c7-4e2b3dc7f889)
